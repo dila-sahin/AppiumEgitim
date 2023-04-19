@@ -1,0 +1,14 @@
+#Seçilmiş ürün listelere eklenir
+* "Listelerime Ekleme Butonu" xpath'li elemente tikla
+* "Listelerime Alındıktan Sonra Çıkan PopUp" id'li elemente tikla
+* "Ürün Detayından Geri Dönme Butonu" id'li elemente tikla
+* "Listelerim Sekmesi" xpath'li elemente tikla
+* "Listelerimde çıkan Pop Up" xpath'li elemente tikla
+* "Beğendiklerim" xpath'li elemente tikla
+
+#Listelere eklenen ürün sepete eklenir
+* "Listelerimde Olan Bir Ürünü Sepete Ekleme" xpath'li elemente tikla
+* "Ürün, Sepete Eklendi Text Kontrolü" xpath'li element "Sepete Eklendi" text değerini içerdiğini kontrol et
+* "Sepete Git" xpath'li elemente tikla
+
+

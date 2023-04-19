@@ -1,0 +1,18 @@
+
+# Uye olma sayfasina gidilir, ilgili alanlar doldurulur
+* "Kullanıcı Ikonu" id'li elemente tikla
+* "Hepsiburada Uye Ol Butonu" id'li elemente tikla
+* "Mail Text" id'li elemente "filmsneverend2@gmail.com" text degerini gonder
+* "Devam Et Butonu, Mail Gonderimi Onayı" id'li elemente tikla
+* "Uyelik Ad" id'li elemente "Dila" text degerini gonder
+* "Uyelik Soyad" id'li elemente "Test" text degerini gonder
+* "Uyelik Sifre" xpath'li elemente "123456Dd" text degerini gonder
+* "Uyelik Riza Metni" id'li elemente tikla
+* "Uye Olma Ekranındaki Uye Ol Butonu" id'li elemente tikla
+
+
+# Uye olundugu kontrol edilir
+* "Hosgeldin Text Kontrolu" id'li element "Hoşgeldin" text değerini içerdiğini kontrol et
+* "Açılan Pop Up'taki Tamam Butonu" id'li elemente tikla
+* "Çıkış Yapılması için Çarpı Butonu" id'li elemente tikla
+

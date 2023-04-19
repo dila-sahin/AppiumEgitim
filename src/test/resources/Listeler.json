@@ -1,0 +1,47 @@
+[
+  {
+    "key": "Listelerime Ekleme Butonu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup,[2]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView[2]",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Listelerime Alındıktan Sonra Çıkan PopUp",
+    "androidValue": "com.pozitron.hepsiburada:id/containerLineField",
+    "androidType": "id"
+  },
+  {
+    "key": "Ürün Detayından Geri Dönme Butonu",
+    "androidValue": "com.pozitron.hepsiburada:id/leftIcon",
+    "androidType": "id"
+  },
+  {
+    "key": "Listelerim Sekmesi",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Listelerim\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Listelerimde çıkan Pop Up",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View[3]/android.view.View/android.view.View[1]/android.widget.Button[1]",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Beğendiklerim",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[7]",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Listelerimde Olan Bir Ürünü Sepete Ekleme",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.widget.ListView/android.view.View/android.widget.Button",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Ürün Sepete Eklendi Text Kontrolü",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View[2]/android.view.View/android.view.View[1]",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Sepete Git",
+    "androidValue": "  /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View[2]/android.view.View/android.view.View[2]/android.view.View",
+    "androidType": "Xpath"
+  }
+]

@@ -1,0 +1,19 @@
+#Kategori seçilir
+* "Kategorilerim Butonu" xpath'li elemente tikla
+* "Swipe Ev Yaşam Kategorisi" xpath'li elemente tikla
+//fonksiyon yazılması gerekiyor
+* "Ev Yaşam Kategorisi Text Kontrolu" id'li element "Ev Yaşam" text değerini içerdiğini kontrol et
+* "Ev Tekstili Kategorisi" xpath'li elemente tikla
+* "Ev Tekstili Kategorisi Text Kontrolü" id'li element "Ev Tekstili" text değerini içerdiğini kontrol et
+* "Battaniye Kategorisi" id'li elemente tikla
+
+#Sıralama seçilir
+* "Siralama Sec" id'li elemente tikla
+* "Cok Satanlar Sec" xpath'li elemente tikla
+* "Uygula Butonu" id'li elemente tikla
+
+#Seçilen kategoriden bir ürün seçilir
+* "UrunListesi" id'li elemente tikla
+* "Urun Sec" xpath'li elemente tikla
+
+

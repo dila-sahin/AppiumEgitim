@@ -1,0 +1,7 @@
+#Seçilen ürün sepete eklenir
+* "Sepete Ekle Butonu" id'li elemente tikla
+* "Urun Sepetinizde Text Kontrolu" id'li elemente tikla
+* "Sepete Git Butonu" id'li elemente tikla
+* "Sepetim Text" xpath'li elemente tikla
+* "Alisverisi Tamamla Butonu" id'li elemente tikla
+* "YeniAdresEkleButonu" xpath'li elemente tikla

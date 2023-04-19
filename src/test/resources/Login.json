@@ -1,0 +1,63 @@
+[
+  {
+    "key": "Hesabım Ikonu",
+    "androidValue": "Hesabım",
+    "androidType": "accessibility id"
+  },
+  {
+    "key": "Misafir, Kullanıcı Sayfasındaki Giriş Yap Butonu",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_1\"]/android.view.ViewGroup/android.widget.Button",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Giriş Yap Üye Ol Sayfasındaki Giriş Yap Butonu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[1]\n",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Giriş Yap Email",
+    "androidValue": "txtUserName",
+    "androidType": "id"
+  },
+  {
+    "key": "Giriş Yap Butonu",
+    "androidValue": "btnLogin",
+    "androidType": "id"
+  },
+  {
+    "key": "Hoş geldiniz Text Kontrolü",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Giriş Yap Sifre Butonu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]/android.view.View/android.widget.EditText",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Şifre Görünürlüğü",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View,[3]/android.view.View/android.view.View/android.view.View/android.widget.Image",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Giriş Yap Son Buton",
+    "androidValue": "btnEmailSelect",
+    "androidType": "id"
+  },
+  {
+    "key": "Hosgeldin Text Kontrolu",
+    "androidValue": "android:id/message",
+    "androidType": "Id"
+  },
+  {
+    "key": "Açılan Pop Up'taki Tamam Butonu",
+    "androidValue": "android:id/button1",
+    "androidType": "Id"
+  },
+  {
+    "key": "Çıkış Yapılması için Çarpı Butonu",
+    "androidValue": "Hesabım ekranını kapat",
+    "androidType": "accessibility_id"
+  }
+]
+

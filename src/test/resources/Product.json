@@ -1,0 +1,57 @@
+[
+  {
+    "key": "Kategorilerim Butonu",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Kategorilerim\"]/android.widget.FrameLayout/android.widget.ImageView\n",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Swipe Ev Yasam Kategorisi",
+    "androidValue":"//android.widget.FrameLayout[@content-desc=\"topMenuItem6\"]/android.view.ViewGroup/android.widget.ImageView\n",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Ev Yasam Kategorisi Text Kontrolu",
+    "androidValue": "insideMenuTitle1",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "Ev Tekstili Kategorisi",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"insideMenuItem1-3\"]/androidx.cardview.widget.CardView/android.widget.ImageView",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Ev Tekstili Kategorisi Text Kontrolü",
+    "androidValue": "categoryDetailTitle",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "Battaniye Kategorisi",
+    "androidValue": "h2LevelChildCategoryText6",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "Siralama Sec",
+    "androidValue": "com.pozitron.hepsiburada:id/lytOptionBarSort",
+    "androidType": "Id"
+  },
+  {
+    "key": "Cok Satanlar Sec",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[4]/android.widget.CheckBox\n",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Uygula Butonu",
+    "androidValue": "com.pozitron.hepsiburada:id/textViewHeaderButton",
+    "androidType": "Id"
+  },
+  {
+    "key": "UrunListesi",
+    "androidValue": "com.pozitron.hepsiburada,:id/rvPlp",
+    "androidType": "Id"
+  },
+  {
+    "key": "Urun Sec",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup,[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[2]/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout[1]/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.ImageView",
+    "androidType": "Xpath"
+  }
+]

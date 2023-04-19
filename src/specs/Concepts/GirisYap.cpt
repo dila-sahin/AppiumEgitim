@@ -1,0 +1,16 @@
+#Hepsiburada hesabına giriş yapılır
+* "Hesabım Ikonu" id'li elemente tikla
+* "Misafir, Kullanıcı Sayfasındaki Giriş Yap Butonu" xpath'li elemente tikla
+* "Giriş Yap Üye Ol Sayfasındaki Giriş Yap Butonu" xpath'li elemente tikla
+* "Giriş Yap Email" id'li elemente tikla
+* "Giriş Yap Butonu" id'li elemente tikla
+* "Hoş geldiniz Text Kontrolü" xpath'li element "Hoş geldiniz" text değerini içerdiğini kontrol et
+* "Giriş Yap Sifre Butonu" xpath'li elemente tikla
+* "Şifre Görünürlüğü" xpath'li elemente tikla
+* "Giriş Yap Son Buton" id'li elemente tikla
+
+#Hesaba giriş yapıldığının doğrulanması sağlanır
+* "Hoş geldin Hesap Kontrolü" id'li element "filmsneverend2@gmail.com" text değerini içerdiğini kontrol et
+* "Açılan Pop Up'taki Tamam Butonu" id'li elemente tikla
+* "Çıkış Yapılması için Çarpı Butonu" id'li elemente tikla
+

@@ -1,0 +1,64 @@
+[
+  {
+  "key": "Kullanıcı Ikonu",
+  "androidValue": "com.pozitron.hepsiburada:id/account_menu_button",
+  "androidType": "Id"
+  },
+  {
+    "key": "Hepsiburada Uye Ol Butonu",
+    "androidValue":"//android.view.ViewGroup[@content-desc="account_menu_button_0"]/android.view.ViewGroup/android.widget.Button",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Mail Text",
+    "androidValue": "txtUserName",
+    "androidType": "Id"
+
+  },
+  {
+    "key": "Devam Et Butonu, Mail Gonderimi Onayı",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "Id"
+  },
+  {
+    "key": "Uyelik Ad",
+    "androidValue": "txtName",
+    "androidType": "Id"
+  },
+  {
+    "key": "Uyelik Soyad",
+    "androidValue": "txtSurname",
+    "androidType": "Id"
+
+  },
+  {
+    "key": "Uyelik Sifre",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[3]/android.view.View[3]/android.widget.EditText xpath",
+    "androidType": "Xpath"
+  },
+  {
+    "key": "Uyelik Riza Metni",
+    "androidValue": "checkSubscribeEmail",
+    "androidType": "Id"
+  },
+  {
+    "key": "Uye Olma Ekranındaki Uye Ol Butonu",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "Id"
+  },
+  {
+    "key": "Hosgeldin Text Kontrolu",
+    "androidValue": "android:id/message",
+    "androidType": "Id"
+  },
+  {
+    "key": "Açılan Pop Up'taki Tamam Butonu",
+    "androidValue": "android:id/button1",
+    "androidType": "Id"
+  },
+  {
+    "key": "Çıkış Yapılması için Çarpı Butonu",
+    "androidValue": "Hesabım ekranını kapat",
+    "androidType": "accessibility_id"
+  }
+]
